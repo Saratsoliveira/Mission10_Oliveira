@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API2-Mission10-Lauren.props" />
+</Project>

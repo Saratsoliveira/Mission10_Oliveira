@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\api-mission10-oliveira.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:api-mission10-oliveira.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\bowlingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\bowlingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\ztblweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\ztblweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\ztblskiplabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\ztblskiplabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\ztblbowlerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\ztblbowlerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\tourneymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\tourneymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\matchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\matchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|c:\\users\\sarateixerasarmentod\\source\\repos\\mission10_oliveira\\backend\\api-mission10-oliveira\\models\\bowlerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9669DD0-F2B6-45C3-80EE-E7CF4E75178A}|API-Mission10-Oliveira.csproj|solutionrelative:models\\bowlerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAZmZmZuYowBoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T03:54:18.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:48:16.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\EFBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EFBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\EFBowlingRepository.cs",
+              "RelativeToolTip": "Models\\EFBowlingRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAGAwwDAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:55:35.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BowlingController.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Controllers\\BowlingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlingController.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Controllers\\BowlingController.cs",
+              "RelativeToolTip": "Controllers\\BowlingController.cs",
+              "ViewState": "AQIAAAQAAAAMmZmZmdkhwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:49:59.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T03:51:11.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MatchGame.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\MatchGame.cs",
+              "RelativeDocumentMoniker": "Models\\MatchGame.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\MatchGame.cs",
+              "RelativeToolTip": "Models\\MatchGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:56:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\Bowler.cs",
+              "RelativeToolTip": "Models\\Bowler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:48:16.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\IBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\IBowlingRepository.cs",
+              "RelativeToolTip": "Models\\IBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:55:43.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API-Mission10-Oliveira",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\API-Mission10-Oliveira.csproj",
+              "RelativeDocumentMoniker": "API-Mission10-Oliveira.csproj",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\API-Mission10-Oliveira.csproj",
+              "RelativeToolTip": "API-Mission10-Oliveira.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T03:54:12.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:02:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:02:46.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\Tournament.cs",
+              "RelativeDocumentMoniker": "Models\\Tournament.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\Tournament.cs",
+              "RelativeToolTip": "Models\\Tournament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:56:44.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TourneyMatch.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\TourneyMatch.cs",
+              "RelativeDocumentMoniker": "Models\\TourneyMatch.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\TourneyMatch.cs",
+              "RelativeToolTip": "Models\\TourneyMatch.cs",
+              "ViewState": "AQIAAAgAAABgMzMzM3MmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:56:53.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BowlingContext.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\BowlingContext.cs",
+              "RelativeDocumentMoniker": "Models\\BowlingContext.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\BowlingContext.cs",
+              "RelativeToolTip": "Models\\BowlingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:53:19.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ZtblBowlerRating.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\ZtblBowlerRating.cs",
+              "RelativeDocumentMoniker": "Models\\ZtblBowlerRating.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\ZtblBowlerRating.cs",
+              "RelativeToolTip": "Models\\ZtblBowlerRating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:57:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ZtblWeek.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\ZtblWeek.cs",
+              "RelativeDocumentMoniker": "Models\\ZtblWeek.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\ZtblWeek.cs",
+              "RelativeToolTip": "Models\\ZtblWeek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:57:18.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZtblSkipLabel.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\ZtblSkipLabel.cs",
+              "RelativeDocumentMoniker": "Models\\ZtblSkipLabel.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\ZtblSkipLabel.cs",
+              "RelativeToolTip": "Models\\ZtblSkipLabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:57:10.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:48:16.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BowlerScore.cs",
+              "DocumentMoniker": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\BowlerScore.cs",
+              "RelativeDocumentMoniker": "Models\\BowlerScore.cs",
+              "ToolTip": "C:\\Users\\sarateixerasarmentod\\source\\repos\\Mission10_Oliveira\\backend\\API-Mission10-Oliveira\\Models\\BowlerScore.cs",
+              "RelativeToolTip": "Models\\BowlerScore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:54:49.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
